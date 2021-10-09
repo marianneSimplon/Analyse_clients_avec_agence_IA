@@ -1,1 +1,1 @@
-https://github.com/marianneSimplon/Analyse_clients_avec_agence_IA/blob/e4b4cac88ec5f9b5b2ca197cf5d08bc063987c9c/planning/Customer_Market_Analysis_.pdf
+[Uploading Customer_Market_Analysis_.pdf…]()
